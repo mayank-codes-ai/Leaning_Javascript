@@ -1,2 +1,2 @@
 # Leaning_Javascript
-A code repo fro JavaScript code 
+A code repo for JavaScript code 
